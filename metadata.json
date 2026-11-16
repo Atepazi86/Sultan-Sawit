@@ -1,0 +1,6 @@
+{
+  "name": "Sawit Sultan: Juragan Lahan",
+  "description": "Game arcade satir 2D tentang menjadi juragan perkebunan kelapa sawit sambil menjaga keseimbangan ekosistem dari amukan orangutan, banjir bandang, dan sidak warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
